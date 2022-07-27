@@ -1,6 +1,6 @@
 {
   "name": "@nurra01/win-certs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "author": "nurra147@gmail.com",
   "license": "MIT",
@@ -16,5 +16,6 @@
   "dependencies": {
     "node-addon-api": "^1.6.2"
   },
+  "types": "./lib/index.d.ts",
   "gypfile": true
 }
